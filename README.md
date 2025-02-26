@@ -26,3 +26,7 @@ https://www.geeksforgeeks.org/cross-validation-machine-learning/
 ###### Variance refers to the model’s sensitivity to small changes in the training data. A high-variance model overfits the data and performs well on training data but poorly on new, unseen data.
 
 ![Screenshot 2025-02-27 001710](https://github.com/user-attachments/assets/65290899-36f9-4dd0-872c-1468b33f19b9)
+![Screenshot 2025-02-27 001741](https://github.com/user-attachments/assets/e95bcc09-bfcd-46d2-864d-6f268c706e17)
+![Screenshot 2025-02-27 001757](https://github.com/user-attachments/assets/d1c64bd1-e036-4371-b372-096627151441)
+
+
