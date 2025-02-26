@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.22631-SP0",
+  "python":  "CPython 3.12.5",
+  "startedAt":  "2025-02-26T18:21:40.295948Z",
+  "program":  "c:\\Users\\Bisol Mathai\\distance_classification\\distance_classification\\Lab5-Spring2025[1].ipynb",
+  "codePath":  "Lab5-Spring2025[1].ipynb",
+  "git":  {
+    "remote":  "https://github.com/Bisol-Mathai/distance_classification.git",
+    "commit":  "67f1fa406e948ebcfba721fa1b15f6f27b086b30"
+  },
+  "email":  "bisol.mathai.ug23@plaksha.edu.in",
+  "root":  "c:\\Users\\Bisol Mathai\\distance_classification\\distance_classification",
+  "host":  "DESKTOP-PLSP9PT",
+  "executable":  "c:\\Users\\Bisol Mathai\\distance_classification\\distance_classification\\venv\\Scripts\\python.exe",
+  "codePathLocal":  "Lab5-Spring2025[1].ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "511040286720",
+      "used":  "244607504384"
+    }
+  },
+  "memory":  {
+    "total":  "8362713088"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
